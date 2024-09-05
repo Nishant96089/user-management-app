@@ -2,7 +2,7 @@
 
 This is a React-based user management application that allows users to view, create, and edit user details. The application interacts with a dummy API provided by [JSONPlaceholder](https://jsonplaceholder.typicode.com) to simulate user management operations.
 
-👉 Live Demo: <a href='https://nishant96089.pythonanywhere.com/'>ChatRoom</a>
+👉 Live Demo: <a href='https://user-management2024.netlify.app/'>User Management App</a>
 
 ## Features
 
